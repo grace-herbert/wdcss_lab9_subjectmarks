@@ -1,0 +1,25 @@
+body{
+    
+    background-color: floralwhite;
+    align-content: center;
+    text-align: center;
+}
+
+
+
+h4{
+    text-align: left;
+
+}
+
+
+.button{
+    float: left;
+}
+
+.container{
+    align-content: center;
+    text-align: center;
+
+}
+
